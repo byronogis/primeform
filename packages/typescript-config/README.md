@@ -1,0 +1,1 @@
+# @primeform/typescript-config

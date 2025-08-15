@@ -1,0 +1,6 @@
+{
+  "extends": "@primeform/typescript-config/tsconfig.base.json",
+  "include": [
+    "src"
+  ]
+}
