@@ -27,6 +27,10 @@
     "clear": "pnpm run -r clear && rimraf -g '**/node_modules' '**/coverage'",
     "prepare": "simple-git-hooks"
   },
+  "dependencies": {
+    "@standard-schema/spec": "^1.0.0",
+    "type-fest": "^4.41.0"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "catalog:lint",
     "@primeform/shared": "workspace:*",
